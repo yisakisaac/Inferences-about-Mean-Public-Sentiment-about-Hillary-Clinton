@@ -26,3 +26,4 @@ wtd.sd(nes$ft_hclinton,nes$wts)
 
 #Question 11 constructing the confidence interval for public sentiment about Hillary Clinton
 CI95(61.42,3.72)
+
